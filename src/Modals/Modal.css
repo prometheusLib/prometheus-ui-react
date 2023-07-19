@@ -1,0 +1,28 @@
+.modal1 {
+    position: fixed;
+    /*top: 100px;*/
+    /*right: 0;*/
+    /*bottom: 0;*/
+    /*left: 0;*/
+    height: 100%;
+
+    background: #a4afb0;
+    display: flex;
+    justify-content: center;
+    padding-top: 5rem;
+}
+
+.modal-body h1 {
+    font-size: large;
+    color: darkred;
+    margin-bottom: 10px;
+}
+
+
+.modal-body {
+    padding: 2rem;
+    width: 100%;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.0);
+    height: 400px;
+}

@@ -1,0 +1,28 @@
+.mainSlide {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 35%;
+    width: 65%;
+    transition: transform 0.5s ease-in-out;
+}
+
+.headerMainSlide {
+    background-image: url('https://img.fonwall.ru/o/9/trava-zelenaya-svet-solntse.jpg?route=mid&h=750');
+    background-size: cover;
+    height: 30%;
+    width: 100%;
+}
+
+.description {
+    background: lightgrey;
+    height: 70%;
+    width: 100%;
+}
+
+.descriptionText {
+    position: absolute;
+    text-align: justify ;
+    padding-top: 100px;
+    padding-left: 60px;
+}
