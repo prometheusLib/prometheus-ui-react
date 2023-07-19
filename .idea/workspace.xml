@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7992b627-483f-4335-901a-5564b31857ba" name="Changes" comment="init commit" />
+    <list default="true" id="7992b627-483f-4335-901a-5564b31857ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modals/ModalFxSpot.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modals/ModalFxSpot.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +64,8 @@
       <workItem from="1689401510713" duration="4053000" />
       <workItem from="1689575895566" duration="24550000" />
       <workItem from="1689745410620" duration="7430000" />
+      <workItem from="1689781969242" duration="995000" />
+      <workItem from="1689783520606" duration="879000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1689781227264</created>
@@ -73,6 +79,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />

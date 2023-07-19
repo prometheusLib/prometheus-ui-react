@@ -5,7 +5,6 @@ export default class ModalFxSpot extends Component {
     state = {
         isOpen: false
     }
-
     render() {
         return (
             <React.Fragment>
