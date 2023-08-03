@@ -1,4 +1,10 @@
 import React from "react";
+import "./Loader.css";
 
-export default  () => <div style={{display: "flex", justifyContent: "center", margin: ".5rem"}}>
-    <div className="lds-dual-ring"/></div>
+const Loader = () => {
+    return(
+        <div class="lds-ring"><div></div><div></div><div></div><div></div></div>
+    )
+}
+
+export default Loader

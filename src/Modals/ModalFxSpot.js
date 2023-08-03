@@ -8,14 +8,15 @@ export default class ModalFxSpot extends Component {
     render() {
         return (
             <React.Fragment>
-                <button className="btn btn-primary" onClick={() => this.setState({isOpen: true})}> Модальное окно
+                <button className="btn btn-dark btn-main" onClick={() => this.setState({isOpen: true})}> Модальное окно
                 </button>
 
                 {this.state.isOpen && <div className= "modal1">
                     <div className= "modal-body">
                         <h1 >Список FxSpots</h1>
                         <span>{this.props.items}</span>
-                        <button className="btn btn-primary" onClick={() => this.setState({isOpen: false})}> Закрыть</button>
+                        <button className="btn btn-dark btn-main"
+                                onClick={() => this.setState({isOpen: false})}> Закрыть</button>
                     </div>
                 </div>}
             </React.Fragment>

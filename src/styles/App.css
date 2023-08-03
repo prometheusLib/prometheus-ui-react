@@ -13,6 +13,10 @@
   color: white;
 }
 
+.btn-style {
+  background-color: #255159;
+}
+
 .App-link {
   color: #61dafb;
 }
@@ -26,6 +30,7 @@
   overflow: hidden;
   width: 100vw;
   height: 100vh;
+  background-color: rgba(252, 197, 134, 0.3);
 }
 
 .sidebar {

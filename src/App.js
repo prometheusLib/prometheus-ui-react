@@ -12,7 +12,7 @@ function App() {
                 <div className="sideItem">
                     <MainHeader/>
                 </div>
-                   <div className="sideItem"> <button className="btn btn-primary">
+                   <div className="sideItem"> <button className="btn btn-dark btn-style">
                         Start!
                     </button>
                     &nbsp;

@@ -18,6 +18,9 @@
     margin-bottom: 10px;
 }
 
+.btn-main {
+    background-color: #255159;
+}
 
 .modal-body {
     padding: 2rem;

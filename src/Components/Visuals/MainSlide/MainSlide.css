@@ -8,8 +8,9 @@
 }
 
 .headerMainSlide {
-    background-image: url('https://img.fonwall.ru/o/9/trava-zelenaya-svet-solntse.jpg?route=mid&h=750');
+    /*background-image: url('https://img.fonwall.ru/o/9/trava-zelenaya-svet-solntse.jpg?route=mid&h=750');*/
     background-size: cover;
+    background-color: rgba(255,255,255,0.1);
     height: 30%;
     width: 100%;
 }
